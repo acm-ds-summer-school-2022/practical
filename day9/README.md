@@ -9,8 +9,8 @@
 
 -----
 #### References:
-1. [Dataset](https://github.com/yvchen/JointSLU/tree/master/data)
-2. [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/pdf/1609.01454.pdf)
-3. [Github - RNN-for-Joint-NLU](https://github.com/DSKSD/RNN-for-Joint-NLU)
+1. [Github - RNN-for-Joint-NLU](https://github.com/DSKSD/RNN-for-Joint-NLU)
+2. Liu, Bing, and Ian Lane. "Attention-based recurrent neural network models for joint intent detection and slot filling." arXiv preprint arXiv:1609.01454 (2016). [Paper]((https://arxiv.org/pdf/1609.01454.pdf)) 
+3. [Dataset](https://github.com/yvchen/JointSLU/tree/master/data)
 4. [Intent Classification with SVM](https://www.kaggle.com/code/oleksandrarsentiev/intent-classification-with-svm)
 5. [Airline-Travel-Information-System-ATIS-Text-Analysis](https://github.com/nawaz-kmr/Airline-Travel-Information-System-ATIS-Text-Analysis#airline-travel-information-system-atis-text-analysis)
